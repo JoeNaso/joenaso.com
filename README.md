@@ -1,1 +1,3 @@
-##joenaso.com - a WIP static site
+## joenaso.com
+
+Just a simple, work-in-progress static site
